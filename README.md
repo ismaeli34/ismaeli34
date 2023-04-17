@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Instagram Clone (Personal project)**
 
-- 🌱 I’m currently learning ** ReactJs and Docker**
+- 🌱 I’m currently learning **ReactJs and Docker**
 
 - 💬 Ask me about **Web Development, Android app development**
 
