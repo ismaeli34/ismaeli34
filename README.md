@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/ismaelronn89598" target="blank"><img src="https://img.shields.io/twitter/follow/ismaelronn89598?logo=twitter&style=for-the-badge" alt="ismaelronn89598" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram Clone (Personal project)**
-
 - 🌱 I’m currently learning **ReactJs and Docker**
 
 - 👯 I’m looking to collaborate on [E-commerce](https://github.com/ismaeli34/e-commerce-springboot-app)
