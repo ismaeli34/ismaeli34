@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on [E-commerce](https://github.com/ismaeli34/e-commerce-springboot-app)
 
-- 🤝 I’m looking for help with **Youtube Clone**
-
 - 💬 Ask me about **Web Development, Android app development**
 
 - 📫 How to reach me **ronneyismael@gmail.com**
