@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ismaelronn89598" target="blank"><img src="https://img.shields.io/twitter/follow/ismaelronn89598?logo=twitter&style=for-the-badge" alt="ismaelronn89598" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs and Docker**
+- 🌱 I'm a motivated and versatile Full-Stack Developer skilled in modern web and cloud technologies. I have experience creating scalable apps using **Angular, React.js, and Vue.js for the frontend**, and **Spring Boot with Java for the backend**. I'm also proficient in cloud engineering with AWS, allowing me to design, deploy, and manage strong cloud solutions.
 
 - 💬 Ask me about **Web Development, Android app development**
 
