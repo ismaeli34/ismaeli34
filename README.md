@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Web Development, Android app development**
 
-- 📫 How to reach me **ronneyismael@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ismaelronn89598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismaelronn89598" height="30" width="40" /></a>
